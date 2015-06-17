@@ -112,5 +112,3 @@ define(function (require, exports, module) {
   module.exports = ChatScrollback
 
 })
-
-extp.registerPlugin('extplug/chat-scrollback/main')
