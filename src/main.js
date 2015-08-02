@@ -17,7 +17,7 @@ define(function (require, exports, module) {
     description: 'Remembers chat messages from earlier sessions.',
 
     enable() {
-      this._super()
+      return this.disable()
 
       this.chat = this.load()
 
