@@ -5,6 +5,8 @@ ExtPlug plugin that remembers chat messages from earlier sessions.
 
 ![Screenshot](http://i.imgur.com/sEZtEgk.png)
 
+**Note: This plugin is experimental, and not ready for actual serious use.**
+
 ## Installation
 
 You can install this plugin by going to your ExtPlug settings menu, pressing
