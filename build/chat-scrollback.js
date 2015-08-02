@@ -23,7 +23,7 @@ define('extplug/chat-scrollback/main',['require','exports','module','extplug/Plu
     description: 'Remembers chat messages from earlier sessions.',
 
     enable: function enable() {
-      this._super();
+      return this.disable();
 
       this.chat = this.load();
 
