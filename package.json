@@ -1,5 +1,5 @@
 { "name": "extplug-chat-scrollback"
-, "version": "0.0.2"
+, "version": "0.1.0"
 , "description": "ExtPlug plugin that remembers chat messages from earlier sessions."
 , "devDependencies":
   { "gulp": "^3.8.11"
