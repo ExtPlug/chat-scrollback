@@ -1,6 +1,8 @@
 Chat Scrollback
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/extplug/chat-scrollback.svg)](https://greenkeeper.io/)
+
 ExtPlug plugin that remembers chat messages from earlier sessions.
 
 ![Screenshot](http://i.imgur.com/sEZtEgk.png)
